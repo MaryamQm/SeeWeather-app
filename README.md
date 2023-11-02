@@ -15,12 +15,12 @@ The aim of this project is to develop a weather mobile app for visually impaired
 6. Click the volume button to listen to the current weather status along with some sounds
 
 ## Port Errors Troubleshooting (macOS)
-If you are getting errors with the the port 8080 already being in use, try these steps:
-1. Identify the process using the port
+If you are getting errors with the the port 8080 already being in use, try these steps: <br>
+1. Identify the process using the port <br>
    lsof -i :8080
-2. Terminate that process (using the PID you got from running the above command)
+2. Terminate that process (using the PID you got from running the above command) <br>
    sudo kill -9 12345
-3. Enter the sudo password (admin password on your machine)
+3. Enter the sudo password (admin password on your machine) <br>
 4. Restart the application
 
 ## Changing location
