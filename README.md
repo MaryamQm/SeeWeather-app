@@ -1,4 +1,4 @@
-# SeeWeather - Group 14
+# SeeWeather - Graphical User Interfaces module project
 The aim of this project is to develop a weather mobile app for visually impaired individuals. They are the end-users of our application, and they are described as being blind or having low vision, thus making them dependent on mobile devices to gain access to information regarding the weather. Therefore, they are the primary group of stakeholders in the development of our application which will be designed to meet their needs. Ultimately, understanding their preferences and specific needs is vital in guaranteeing the application is safe, user-friendly, and accessible.  
 
 ## Getting Started
